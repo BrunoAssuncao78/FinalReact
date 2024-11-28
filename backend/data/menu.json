@@ -1,0 +1,34 @@
+[
+  {
+    "category": "starter",
+    "item": "Pataniscas"
+  },
+  {
+    "category": "main",
+    "item": "Bacalhau com natas"
+  },
+  {
+    "category": "starter",
+    "item": "Moelas"
+  },
+  {
+    "category": "main",
+    "item": "Cabrito assado"
+  },
+  {
+    "category": "dessert",
+    "item": "Baba de camelo"
+  },
+  {
+    "category": "starter",
+    "item": "Carpaccio"
+  },
+  {
+    "category": "dessert",
+    "item": "Pudim abade de priscos"
+  },
+  {
+    "category": "dessert",
+    "item": "Natas do céu"
+  }
+]

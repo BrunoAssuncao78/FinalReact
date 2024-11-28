@@ -1,0 +1,14 @@
+.navbar {
+    justify-content: center; /* Centraliza a navbar */
+  }
+  
+  .navbar-brand {
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Centraliza o logo e o texto */
+  }
+  
+  .navbar-nav {
+    justify-content: center; /* Centraliza os links */
+  }
+  
